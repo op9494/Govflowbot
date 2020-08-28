@@ -8,5 +8,5 @@
 ###viedio:
       [Execution Viedio](https://youtu.be/M1LN8ceh2aI)
 
-### Support or Contact
-Having trouble with Pages? Check out our [documentation](https://github.com/op9494/Govflowbot)
+### For Support
+Having trouble? Check out my repository [documentation](https://github.com/op9494/Govflowbot)
